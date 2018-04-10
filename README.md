@@ -6,7 +6,7 @@
 2. 请描述一下 cookies，sessionStorage 和 localStorage 的区别
 3. HTTP状态码及其含义
 4. 行内元素有哪些？块级元素有哪些？行内元素和块级元素有什么区别？
-
+5. 关于浏览器同源政策的了解
 
 ### CSS部分
 1. 为什么要初始化CSS样式?
